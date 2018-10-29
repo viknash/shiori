@@ -5,8 +5,8 @@ package main
 import (
 	fp "path/filepath"
 
-	"github.com/RadhiFadlillah/shiori/cmd"
-	dt "github.com/RadhiFadlillah/shiori/database"
+	"github.com/viknash/shiori/cmd"
+	dt "github.com/viknash/shiori/database"
 	_ "github.com/mattn/go-sqlite3"
 	"github.com/sirupsen/logrus"
 )

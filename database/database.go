@@ -3,7 +3,7 @@ package database
 import (
 	"database/sql"
 
-	"github.com/RadhiFadlillah/shiori/model"
+	"github.com/viknash/shiori/model"
 )
 
 // Database is interface for manipulating data in database.

@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	dt "github.com/RadhiFadlillah/shiori/database"
+	dt "github.com/viknash/shiori/database"
 	"github.com/julienschmidt/httprouter"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
